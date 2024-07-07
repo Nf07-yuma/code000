@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from './header'; // ヘッダーコンポーネント（必要に応じて作成）
-import Footer from './footer'; // フッターコンポーネント（必要に応じて作成）
+import Header from './header';
+import Footer from './footer';
 
 export default function Layout ({ children }) {
   return (
