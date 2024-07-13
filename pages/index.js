@@ -1,8 +1,7 @@
-import LayoutHome from "../components/nexthome";
-import Hero from "../components/Hero";
+import Top from "../components/top";
 
 export default function Home() {
   return (
-    <Hero />
+    <Top />
   );
 }

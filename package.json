@@ -3,6 +3,7 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
+    "startAzure": "next build && next start -p 8080",
     "start": "next start",
     "lint": "next lint"
   },
